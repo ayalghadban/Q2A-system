@@ -1,0 +1,24 @@
+/*
+	Theme Name: Etmaam 2020
+	Theme Version: 1.0
+	Theme Date: 01-010-2019
+	Theme Version Update Date: 01-010-2019
+	Theme Landing Page: https://bashar.icu
+	
+	Theme Author: Bashar 
+	Theme Author URI: https://twitter.com/basharn55
+	Theme Author Blog: https://basharcu
+*/
+
+
+/*
+.header-navbar {
+	background-color: #1976D2;
+    color: #fff;
+}
+*/
+
+/* Hide icons for question Edit/Comment and more buttons */
+.qa-form-light-button:before {
+	display: none;
+}

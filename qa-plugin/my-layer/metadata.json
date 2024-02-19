@@ -1,0 +1,11 @@
+{ 
+"name": "My Layer", 
+"description": "Custom layer", 
+"version": "1.0", 
+"date": "2017-04-19", 
+"author": "PowerQA", 
+"author_uri": "http://www.powerqa.org", 
+"license": "GPLv2", 
+"min_q2a": "1.5" 
+}
+
